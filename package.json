@@ -1,0 +1,12 @@
+{
+  "name": "tester-application",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "method-override": "~2.0.2",
+    "mongodb": "^3.0.2",
+    "mongoose": "~5.0.6",
+    "promise": "^8.0.1"
+  }
+}
